@@ -1,3 +1,3 @@
-video games
-Computers
-Bowling
+- video games
+- Computers
+- Bowling
